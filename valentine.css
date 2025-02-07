@@ -1,0 +1,20 @@
+h1{
+    align:center;
+    margin:200px 0 0 400px;
+    color:white;
+
+}
+body{
+    background-image:url("WhatsApp Image 2025-02-07 at 14.38.10 (1).jpeg");
+    background-size:cover;
+    background-repeat:no-repeat
+    background-position:center;
+}
+.yes{
+    margin:50px 0 0 500px;
+}
+p{
+    margin:50px 0 0 400px;
+    color:white;
+    font-weight:bold;
+}
